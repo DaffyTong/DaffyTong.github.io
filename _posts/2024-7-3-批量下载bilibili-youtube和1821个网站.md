@@ -1,6 +1,6 @@
 ---
 layout:     post   			    # 使用的布局（不需要改）
-title:      批量下载视频bilibili-youtube和1821个网站		# 标题 
+title:      批量下载bilibili、youtube和1821个网站		# 标题 
 subtitle:   教程 #副标题
 date:       2024-7-3		# 时间
 author:     specked2527			# 作者
@@ -12,6 +12,7 @@ tags:
 --- 
 
 [支持1821个网站](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+[官网](https://github.com/yt-dlp/yt-dlp/)
 
 # 1. 下载 yt-dlp.exe
 https://github.com/yt-dlp/yt-dlp/tags
@@ -45,10 +46,12 @@ https://chrome.google.com/webstore/detail/get-cookiestxt-locally/cclelndahbckben
 
 # 配置
 把cookies.txt放在在yt-dlp.exe文件夹，新建一个文本.txt
+
+填写你的cookie.txt路径,并删除我留下的中文，如--cookies "c:/1/cookie.txt"
 * 填写以下内容,保存修改文件名为yt-dlp.conf
 ```
 -o ./yt/%(title)s.%(ext)s
---cookies "cookie.txt"
+--cookies "你的cookie.txt路径 如c:/1/cookie.txt"
 ```
 
 # 保存位置
