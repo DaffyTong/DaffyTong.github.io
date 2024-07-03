@@ -94,19 +94,19 @@ service-worker: true
 
 
 
-# Friends
-friends: [
-    {
-        title: "",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书",
-        href: "http://www.jianshu.com/u/eea518506005"
-    },{
-        title: "",
-        href: "https://apple.com"
-    },{
-        title: "",
-        href: "https://developer.apple.com/"
-    }
-]
+# # Friends
+# friends: [
+#     {
+#         title: "",
+#         href: "http://zhengwuyang.com"
+#     },{
+#         title: "简书",
+#         href: "http://www.jianshu.com/u/eea518506005"
+#     },{
+#         title: "",
+#         href: "https://apple.com"
+#     },{
+#         title: "",
+#         href: "https://developer.apple.com/"
+#     }
+# ]
