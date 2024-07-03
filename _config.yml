@@ -1,13 +1,13 @@
 # Site settings
 title: "李青凝"
-SEOTitle: 李青凝|blog
+SEOTitle: 李青凝的博客
 header-img: img/10-12-6k.jpg
 email: ""
 description: "Every failed."
 keyword: " "
-url: "specked2527.github.io"          # your host, for absolute URL
+url: "DaffyTong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/specked2527.github.io.git" # you code repository
+github_repo: "https://github.com/DaffyTong.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/IMG_20240613_174502_796.jpg      # use absolute URL, seeing
 RSS: false
 # weibo_username:     
 zhihu_username:     
-github_username:    specked2527
+github_username:    DaffyTong
 facebook_username:  
 jianshu_username:   
 #twitter_username:   
